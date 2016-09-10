@@ -1,2 +1,2 @@
 # chat
-simple chat client and server
+chat client and server
