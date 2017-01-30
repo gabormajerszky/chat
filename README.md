@@ -1,2 +1,2 @@
 # Chat
-Chat client and server
+Chat program written in Python
