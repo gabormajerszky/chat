@@ -1,2 +1,2 @@
-# Chat
-Chat program written in Python
+# chat
+Simple chat program written in Python
